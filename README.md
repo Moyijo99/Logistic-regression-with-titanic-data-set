@@ -27,7 +27,7 @@ README.md: Detailed documentation on the project, including the steps followed a
 ### How to Use:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/logistic-regression-with-titanic-dataset.git
+git clone https://github.com/yourusername/logistic-regression-with-titanic-data-set.git
 
 2. Install the required libraries:
 pip install -r requirements.txt
